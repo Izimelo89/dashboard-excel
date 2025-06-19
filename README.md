@@ -57,3 +57,9 @@ durante o Bootcamp Santander Excel com Inteligência Artificial.
 
 ---
 
+## 🤝 Contribuindo
+
+Contribuições são super bem-vindas!  
+Se você tiver sugestões de melhorias, novas visualizações ou correções, fique à vontade para abrir uma [issue](https://github.com/Izimelo89/dashboard-excel/issues) ou enviar um pull request.  
+Vamos construir juntos um repositório cada vez mais útil para quem quer visualizar dados com Excel! 😊
+
