@@ -1,3 +1,4 @@
+
 # 🎮 Dashboard de Vendas Xbox – Excel
 
 ## 📈 Visão Geral
@@ -55,3 +56,4 @@ Esse projeto foi feito como um exercício de análise e visualização de dados 
 durante o Bootcamp Santander Excel com Inteligência Artificial.
 
 ---
+
